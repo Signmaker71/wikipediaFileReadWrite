@@ -1,0 +1,2 @@
+username = Szuperteszter01
+password = xgjrdhv123
